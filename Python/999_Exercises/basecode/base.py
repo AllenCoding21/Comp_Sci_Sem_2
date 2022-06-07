@@ -1,0 +1,5 @@
+y = int(input( "How many items are you purchasing? ")) 
+b = str(input( "What item are you purchasing ")) 
+a = int(input( "how much is that item? "))
+print("The total is") 
+print(a * y)
